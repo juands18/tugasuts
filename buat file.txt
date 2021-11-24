@@ -1,0 +1,23 @@
+Sistem operasi praktikum
+
+nama : juan
+
+yang ingin dipelajari 
+-python
+-steganografi
+-enkripsi
+
+-java
+-kotlin
+-topologi jaringan
+-data mining
+
+
+software code editor
+-pycharm
+-android studio
+-software code editor
+-visual code studio
+-netbeans
+-sublime
+
